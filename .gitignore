@@ -1,1 +1,8 @@
 /bin/
+<<<<<<< HEAD
+=======
+/src/
+/.settings/
+/.classpath
+/.project
+>>>>>>> branch 'master' of https://github.com/ndlp2014-sio-Theo/GSB_JAVA.git
